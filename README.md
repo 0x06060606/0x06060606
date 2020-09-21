@@ -1,6 +1,6 @@
 <span>
    <h1>:fire:<code> Hello, My Name is <bold>John Bell</bold></code>:fire:<br />
-      <span style="visibility: hidden;">🔥<code>I am a...⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</code></h1>🔥</span>
+      <span style="visibility: hidden;">🔥<code>I am a...⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</code>🔥</span></h1>
 </span>
 <span>
    &#8226; <code>Cyber Security Engineer</code><br />
