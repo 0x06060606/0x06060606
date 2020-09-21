@@ -1,5 +1,5 @@
-# <h1>:fire:<code> Hello, My Name is **John Bell**</code>:fire:</h1><br />
-## <h2><code>I am a...</code></h2><br />
+<h1>:fire:<code> Hello, My Name is <bold>John Bell</bold></code>:fire:</h1><br />
+<h2><code>I am a...</code></h2><br />
 <span>
    &#8226; <code>Cyber Security Engineer</code><br />
    &#8226; <code>Cyber Security Researcher</code><br />
