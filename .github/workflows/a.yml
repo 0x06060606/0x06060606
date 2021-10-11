@@ -41,7 +41,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
+          token: NOT_NEEDED_LOL
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, characters
