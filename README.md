@@ -1,3 +1,20 @@
-<center>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Comment: User-ID:	root <root@bellcybersecurity.com>
+Comment: Valid from:	11/4/2023 9:16 PM
+Comment: Valid until:	11/4/2026 12:00 PM
+Comment: Type:	255-bit EdDSA (secret key available)
+Comment: Usage:	Signing, Encryption, Certifying User-IDs
+Comment: Fingerprint:	47255BC0D52B386239DFE2CD49D5C6E4A3A27890
 
-</center>
+
+mDMEZUbs+RYJKwYBBAHaRw8BAQdA36CRg4E48eLb1MBqQ7wyqFS5q9qxklwTUgdm
+d0QNzwC0IXJvb3QgPHJvb3RAYmVsbGN5YmVyc2VjdXJpdHkuY29tPoiZBBMWCgBB
+FiEERyVbwNUrOGI53+LNSdXG5KOieJAFAmVG7PkCGwMFCQWkd5cFCwkIBwICIgIG
+FQoJCAsCBBYCAwECHgcCF4AACgkQSdXG5KOieJDvZgEAgrrspiBYr0qV7qtxf2No
+ILbYQ69xtUd5fVAa8G0agvsA/1KTNd44/39phao8n9WgOSyh1Zgdu/7NiKu0WoGk
+9TADuDgEZUbs+RIKKwYBBAGXVQEFAQEHQGvq/EDJdVkYCADkA1dKIoGk4vTeF+vU
+wrfyJKQ7MidFAwEIB4h+BBgWCgAmFiEERyVbwNUrOGI53+LNSdXG5KOieJAFAmVG
+7PkCGwwFCQWkd5cACgkQSdXG5KOieJAtegD/VDAyVTl113HK+p1a0fZ99j01lr/R
+QglZIzTkcAn3IWMA/2JHMzqxrVnBUlXd+74FmVDjraTxAQ8loBafMjI3dg4B
+=Tbpg
+-----END PGP PUBLIC KEY BLOCK-----
